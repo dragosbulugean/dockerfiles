@@ -1,0 +1,1 @@
+docker push dragosbulugean/postgres-9.5-plus:latest
